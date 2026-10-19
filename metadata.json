@@ -1,0 +1,6 @@
+{
+  "name": "CardioPredict AI",
+  "description": "Educational cardiovascular disease risk classification and clinical data intelligence platform using structured hemodynamic markers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

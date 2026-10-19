@@ -1,0 +1,19 @@
+{
+    "model_name": "Logistic Regression",
+    "cv_accuracy_mean": 0.8264,
+    "cv_accuracy_std": 0.0381,
+    "cv_recall_mean": 0.8415,
+    "cv_f1_mean": 0.8192,
+    "cv_roc_auc_mean": 0.9084,
+    "train_accuracy": 0.8677,
+    "test_accuracy": 0.8525,
+    "test_precision": 0.8065,
+    "test_recall": 0.8929,
+    "test_f1": 0.8475,
+    "test_roc_auc": 0.9123,
+    "confusion_matrix": [
+        [27, 6],
+        [3, 25]
+    ],
+    "clinical_score": 0.8896
+}
